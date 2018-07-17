@@ -4,6 +4,6 @@ public class fristClass {
         System.out.println("aaa");
     }
     public void tste(){
-
+        System.out.println("testPush");
     }
 }
