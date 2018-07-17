@@ -7,4 +7,5 @@ public class fristClass {
         System.out.println("testPush");
     }
     Integer i = 10;
+    String s = "testPush";
 }
