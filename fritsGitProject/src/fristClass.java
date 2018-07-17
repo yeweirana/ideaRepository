@@ -6,4 +6,5 @@ public class fristClass {
     public void tste(){
         System.out.println("testPush");
     }
+    String s = "testPush";
 }
